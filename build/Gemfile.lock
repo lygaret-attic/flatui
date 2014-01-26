@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    vic (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vic
